@@ -109,9 +109,9 @@
     }
   },
   "variables": {   
-    "repoURL": "https://github.com/amitVerity/CIaCSTrainingARM-Web.git",
+    "repoURL": "https://github.com/SmithaVerity/CIaCSTrainingARM-Web.git",
     "branch": "master",
-    "APIrepoURL": "https://github.com/amitVerity/CIaCSTrainingARM-API.git"
+    "APIrepoURL": "https://github.com/SmithaVerity/CIaCSTrainingARM-API.git"
 
   },
   "resources": [
